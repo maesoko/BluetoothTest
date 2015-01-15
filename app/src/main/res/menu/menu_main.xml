@@ -4,4 +4,10 @@
 
     <item android:id="@+id/discover"
         android:title="@string/discover" />
+
+    <item android:id="@+id/cancel"
+        android:title="@string/cancel" />
+
+    <item android:id="@+id/imSever"
+        android:title="@string/im_server" />
 </menu>
